@@ -1,0 +1,6 @@
+C:\Users\Computer\Downloads\Assignment2(2)\Confectionary\obj\Debug\Confectionary.csprojAssemblyReference.cache
+C:\Users\Computer\Downloads\Assignment2(2)\Confectionary\bin\Debug\Confectionary.exe.config
+C:\Users\Computer\Downloads\Assignment2(2)\Confectionary\bin\Debug\Confectionary.exe
+C:\Users\Computer\Downloads\Assignment2(2)\Confectionary\bin\Debug\Confectionary.pdb
+C:\Users\Computer\Downloads\Assignment2(2)\Confectionary\obj\Debug\Confectionary.exe
+C:\Users\Computer\Downloads\Assignment2(2)\Confectionary\obj\Debug\Confectionary.pdb

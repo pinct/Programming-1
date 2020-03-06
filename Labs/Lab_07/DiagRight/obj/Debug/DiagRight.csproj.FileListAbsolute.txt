@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\DiagRight\bin\Debug\DiagRight.exe.config
+H:\Programming 1\Labs\Lab_07\DiagRight\bin\Debug\DiagRight.exe
+H:\Programming 1\Labs\Lab_07\DiagRight\bin\Debug\DiagRight.pdb
+H:\Programming 1\Labs\Lab_07\DiagRight\obj\Debug\DiagRight.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\DiagRight\obj\Debug\DiagRight.exe
+H:\Programming 1\Labs\Lab_07\DiagRight\obj\Debug\DiagRight.pdb

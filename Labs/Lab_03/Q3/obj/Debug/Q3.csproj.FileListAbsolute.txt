@@ -1,0 +1,5 @@
+C:\Users\Computer\source\repos\Lab_03\Q3\bin\Debug\Q3.exe.config
+C:\Users\Computer\source\repos\Lab_03\Q3\bin\Debug\Q3.exe
+C:\Users\Computer\source\repos\Lab_03\Q3\bin\Debug\Q3.pdb
+C:\Users\Computer\source\repos\Lab_03\Q3\obj\Debug\Q3.exe
+C:\Users\Computer\source\repos\Lab_03\Q3\obj\Debug\Q3.pdb

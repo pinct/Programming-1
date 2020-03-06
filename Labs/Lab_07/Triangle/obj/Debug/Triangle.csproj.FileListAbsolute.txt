@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\Triangle\bin\Debug\Triangle.exe.config
+H:\Programming 1\Labs\Lab_07\Triangle\bin\Debug\Triangle.exe
+H:\Programming 1\Labs\Lab_07\Triangle\bin\Debug\Triangle.pdb
+H:\Programming 1\Labs\Lab_07\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\Triangle\obj\Debug\Triangle.exe
+H:\Programming 1\Labs\Lab_07\Triangle\obj\Debug\Triangle.pdb

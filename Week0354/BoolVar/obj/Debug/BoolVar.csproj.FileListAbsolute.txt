@@ -1,0 +1,7 @@
+H:\Programming 1\Week0354\BoolVar\bin\Debug\BoolVar.exe.config
+H:\Programming 1\Week0354\BoolVar\bin\Debug\BoolVar.exe
+H:\Programming 1\Week0354\BoolVar\bin\Debug\BoolVar.pdb
+H:\Programming 1\Week0354\BoolVar\obj\Debug\BoolVar.csprojAssemblyReference.cache
+H:\Programming 1\Week0354\BoolVar\obj\Debug\BoolVar.csproj.CoreCompileInputs.cache
+H:\Programming 1\Week0354\BoolVar\obj\Debug\BoolVar.exe
+H:\Programming 1\Week0354\BoolVar\obj\Debug\BoolVar.pdb

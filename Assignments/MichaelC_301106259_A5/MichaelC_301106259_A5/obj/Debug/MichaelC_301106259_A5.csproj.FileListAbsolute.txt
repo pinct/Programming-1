@@ -1,0 +1,7 @@
+H:\Programming 1\Assignments\MichaelC_301106259_A5\MichaelC_301106259_A5\bin\Debug\MichaelC_301106259_A5.exe.config
+H:\Programming 1\Assignments\MichaelC_301106259_A5\MichaelC_301106259_A5\bin\Debug\MichaelC_301106259_A5.exe
+H:\Programming 1\Assignments\MichaelC_301106259_A5\MichaelC_301106259_A5\bin\Debug\MichaelC_301106259_A5.pdb
+H:\Programming 1\Assignments\MichaelC_301106259_A5\MichaelC_301106259_A5\obj\Debug\MichaelC_301106259_A5.csproj.CoreCompileInputs.cache
+H:\Programming 1\Assignments\MichaelC_301106259_A5\MichaelC_301106259_A5\obj\Debug\MichaelC_301106259_A5.exe
+H:\Programming 1\Assignments\MichaelC_301106259_A5\MichaelC_301106259_A5\obj\Debug\MichaelC_301106259_A5.pdb
+H:\Programming 1\Assignments\MichaelC_301106259_A5\MichaelC_301106259_A5\obj\Debug\MichaelC_301106259_A5.csprojResolveAssemblyReference.cache

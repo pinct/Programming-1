@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_12\Q4\bin\Debug\Q4.exe.config
+H:\Programming 1\Labs\Lab_12\Q4\bin\Debug\Q4.exe
+H:\Programming 1\Labs\Lab_12\Q4\bin\Debug\Q4.pdb
+H:\Programming 1\Labs\Lab_12\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_12\Q4\obj\Debug\Q4.exe
+H:\Programming 1\Labs\Lab_12\Q4\obj\Debug\Q4.pdb

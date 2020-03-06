@@ -1,0 +1,7 @@
+H:\Programming 1\Labs\Lab_07\Q11\bin\Debug\Q11.exe.config
+H:\Programming 1\Labs\Lab_07\Q11\bin\Debug\Q11.exe
+H:\Programming 1\Labs\Lab_07\Q11\bin\Debug\Q11.pdb
+H:\Programming 1\Labs\Lab_07\Q11\obj\Debug\Q11.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\Q11\obj\Debug\Q11.exe
+H:\Programming 1\Labs\Lab_07\Q11\obj\Debug\Q11.pdb
+H:\Programming 1\Labs\Lab_07\Q11\obj\Debug\Q11.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+H:\Programming 1\Tests\MichaelC-301106259-T2\Q2\bin\Debug\Q2.exe.config
+H:\Programming 1\Tests\MichaelC-301106259-T2\Q2\bin\Debug\Q2.exe
+H:\Programming 1\Tests\MichaelC-301106259-T2\Q2\bin\Debug\Q2.pdb
+H:\Programming 1\Tests\MichaelC-301106259-T2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+H:\Programming 1\Tests\MichaelC-301106259-T2\Q2\obj\Debug\Q2.exe
+H:\Programming 1\Tests\MichaelC-301106259-T2\Q2\obj\Debug\Q2.pdb

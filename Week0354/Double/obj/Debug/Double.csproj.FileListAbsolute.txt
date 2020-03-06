@@ -1,0 +1,6 @@
+H:\Programming 1\Week0354\Double\obj\Debug\Double.csproj.CoreCompileInputs.cache
+H:\Programming 1\Week0354\Double\bin\Debug\Double.exe.config
+H:\Programming 1\Week0354\Double\bin\Debug\Double.exe
+H:\Programming 1\Week0354\Double\bin\Debug\Double.pdb
+H:\Programming 1\Week0354\Double\obj\Debug\Double.exe
+H:\Programming 1\Week0354\Double\obj\Debug\Double.pdb

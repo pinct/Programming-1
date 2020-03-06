@@ -1,0 +1,7 @@
+H:\Programming 1\Week0554\Conditional1\bin\Debug\Conditional1.exe.config
+H:\Programming 1\Week0554\Conditional1\bin\Debug\Conditional1.exe
+H:\Programming 1\Week0554\Conditional1\bin\Debug\Conditional1.pdb
+H:\Programming 1\Week0554\Conditional1\obj\Debug\Conditional1.csprojAssemblyReference.cache
+H:\Programming 1\Week0554\Conditional1\obj\Debug\Conditional1.csproj.CoreCompileInputs.cache
+H:\Programming 1\Week0554\Conditional1\obj\Debug\Conditional1.exe
+H:\Programming 1\Week0554\Conditional1\obj\Debug\Conditional1.pdb

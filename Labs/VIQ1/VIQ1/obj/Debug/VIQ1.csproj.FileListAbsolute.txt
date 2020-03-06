@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\VIQ1\VIQ1\bin\Debug\VIQ1.exe.config
+H:\Programming 1\Labs\VIQ1\VIQ1\bin\Debug\VIQ1.exe
+H:\Programming 1\Labs\VIQ1\VIQ1\bin\Debug\VIQ1.pdb
+H:\Programming 1\Labs\VIQ1\VIQ1\obj\Debug\VIQ1.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\VIQ1\VIQ1\obj\Debug\VIQ1.exe
+H:\Programming 1\Labs\VIQ1\VIQ1\obj\Debug\VIQ1.pdb

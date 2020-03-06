@@ -1,0 +1,6 @@
+H:\Programming 1\Tests\Test1\Payroll\bin\Debug\Payroll.exe.config
+H:\Programming 1\Tests\Test1\Payroll\bin\Debug\Payroll.exe
+H:\Programming 1\Tests\Test1\Payroll\bin\Debug\Payroll.pdb
+H:\Programming 1\Tests\Test1\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+H:\Programming 1\Tests\Test1\Payroll\obj\Debug\Payroll.exe
+H:\Programming 1\Tests\Test1\Payroll\obj\Debug\Payroll.pdb

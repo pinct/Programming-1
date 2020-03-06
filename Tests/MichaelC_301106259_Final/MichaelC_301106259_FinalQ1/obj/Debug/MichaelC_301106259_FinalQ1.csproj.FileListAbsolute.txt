@@ -1,0 +1,6 @@
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_Final\bin\Debug\MichaelC_301106259_Final.exe.config
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_Final\bin\Debug\MichaelC_301106259_Final.exe
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_Final\bin\Debug\MichaelC_301106259_Final.pdb
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_Final\obj\Debug\MichaelC_301106259_FinalQ1.csproj.CoreCompileInputs.cache
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_Final\obj\Debug\MichaelC_301106259_Final.exe
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_Final\obj\Debug\MichaelC_301106259_Final.pdb

@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\Perimeter\bin\Debug\Perimeter.exe.config
+H:\Programming 1\Labs\Lab_07\Perimeter\bin\Debug\Perimeter.exe
+H:\Programming 1\Labs\Lab_07\Perimeter\bin\Debug\Perimeter.pdb
+H:\Programming 1\Labs\Lab_07\Perimeter\obj\Debug\Perimeter.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\Perimeter\obj\Debug\Perimeter.exe
+H:\Programming 1\Labs\Lab_07\Perimeter\obj\Debug\Perimeter.pdb

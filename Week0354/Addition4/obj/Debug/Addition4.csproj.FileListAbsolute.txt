@@ -1,0 +1,14 @@
+C:\Users\301106259\source\repos\Addition3\Addition4\bin\Debug\Addition4.exe.config
+C:\Users\301106259\source\repos\Addition3\Addition4\bin\Debug\Addition4.exe
+C:\Users\301106259\source\repos\Addition3\Addition4\bin\Debug\Addition4.pdb
+C:\Users\301106259\source\repos\Addition3\Addition4\obj\Debug\Addition4.csprojAssemblyReference.cache
+C:\Users\301106259\source\repos\Addition3\Addition4\obj\Debug\Addition4.csproj.CoreCompileInputs.cache
+C:\Users\301106259\source\repos\Addition3\Addition4\obj\Debug\Addition4.exe
+C:\Users\301106259\source\repos\Addition3\Addition4\obj\Debug\Addition4.pdb
+H:\Programming 1\Week0354\Addition4\bin\Debug\Addition4.exe.config
+H:\Programming 1\Week0354\Addition4\bin\Debug\Addition4.exe
+H:\Programming 1\Week0354\Addition4\bin\Debug\Addition4.pdb
+H:\Programming 1\Week0354\Addition4\obj\Debug\Addition4.csprojAssemblyReference.cache
+H:\Programming 1\Week0354\Addition4\obj\Debug\Addition4.csproj.CoreCompileInputs.cache
+H:\Programming 1\Week0354\Addition4\obj\Debug\Addition4.exe
+H:\Programming 1\Week0354\Addition4\obj\Debug\Addition4.pdb

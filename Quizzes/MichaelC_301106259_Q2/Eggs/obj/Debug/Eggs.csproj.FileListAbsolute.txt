@@ -1,0 +1,7 @@
+H:\Programming 1\MichaelC_301106259_Q2\Eggs\bin\Debug\Eggs.exe.config
+H:\Programming 1\MichaelC_301106259_Q2\Eggs\bin\Debug\Eggs.exe
+H:\Programming 1\MichaelC_301106259_Q2\Eggs\bin\Debug\Eggs.pdb
+H:\Programming 1\MichaelC_301106259_Q2\Eggs\obj\Debug\Eggs.csprojAssemblyReference.cache
+H:\Programming 1\MichaelC_301106259_Q2\Eggs\obj\Debug\Eggs.csproj.CoreCompileInputs.cache
+H:\Programming 1\MichaelC_301106259_Q2\Eggs\obj\Debug\Eggs.exe
+H:\Programming 1\MichaelC_301106259_Q2\Eggs\obj\Debug\Eggs.pdb

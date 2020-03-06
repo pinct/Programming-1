@@ -1,0 +1,7 @@
+H:\Programming 1\Labs\Lab_09\Q6\bin\Debug\Q6.exe.config
+H:\Programming 1\Labs\Lab_09\Q6\bin\Debug\Q6.exe
+H:\Programming 1\Labs\Lab_09\Q6\bin\Debug\Q6.pdb
+H:\Programming 1\Labs\Lab_09\Q6\obj\Debug\Q6.csprojAssemblyReference.cache
+H:\Programming 1\Labs\Lab_09\Q6\obj\Debug\Q6.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_09\Q6\obj\Debug\Q6.exe
+H:\Programming 1\Labs\Lab_09\Q6\obj\Debug\Q6.pdb

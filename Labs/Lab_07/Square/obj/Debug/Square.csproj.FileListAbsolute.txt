@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\Square\bin\Debug\Square.exe.config
+H:\Programming 1\Labs\Lab_07\Square\bin\Debug\Square.exe
+H:\Programming 1\Labs\Lab_07\Square\bin\Debug\Square.pdb
+H:\Programming 1\Labs\Lab_07\Square\obj\Debug\Square.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\Square\obj\Debug\Square.exe
+H:\Programming 1\Labs\Lab_07\Square\obj\Debug\Square.pdb

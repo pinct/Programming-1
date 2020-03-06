@@ -1,0 +1,5 @@
+C:\Users\Computer\Downloads\Assignment2(2)\Grocery\bin\Debug\Grocery.exe.config
+C:\Users\Computer\Downloads\Assignment2(2)\Grocery\bin\Debug\Grocery.exe
+C:\Users\Computer\Downloads\Assignment2(2)\Grocery\bin\Debug\Grocery.pdb
+C:\Users\Computer\Downloads\Assignment2(2)\Grocery\obj\Debug\Grocery.exe
+C:\Users\Computer\Downloads\Assignment2(2)\Grocery\obj\Debug\Grocery.pdb

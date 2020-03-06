@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\Diamond\bin\Debug\Diamond.exe.config
+H:\Programming 1\Labs\Lab_07\Diamond\bin\Debug\Diamond.exe
+H:\Programming 1\Labs\Lab_07\Diamond\bin\Debug\Diamond.pdb
+H:\Programming 1\Labs\Lab_07\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\Diamond\obj\Debug\Diamond.exe
+H:\Programming 1\Labs\Lab_07\Diamond\obj\Debug\Diamond.pdb

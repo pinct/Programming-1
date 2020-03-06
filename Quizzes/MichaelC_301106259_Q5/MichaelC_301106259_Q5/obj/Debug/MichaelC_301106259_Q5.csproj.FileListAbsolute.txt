@@ -1,0 +1,7 @@
+H:\Programming 1\Quizzes\MichaelC_301106259_Q5\MichaelC_301106259_Q5\bin\Debug\MichaelC_301106259_Q5.exe.config
+H:\Programming 1\Quizzes\MichaelC_301106259_Q5\MichaelC_301106259_Q5\bin\Debug\MichaelC_301106259_Q5.exe
+H:\Programming 1\Quizzes\MichaelC_301106259_Q5\MichaelC_301106259_Q5\bin\Debug\MichaelC_301106259_Q5.pdb
+H:\Programming 1\Quizzes\MichaelC_301106259_Q5\MichaelC_301106259_Q5\obj\Debug\MichaelC_301106259_Q5.csprojAssemblyReference.cache
+H:\Programming 1\Quizzes\MichaelC_301106259_Q5\MichaelC_301106259_Q5\obj\Debug\MichaelC_301106259_Q5.csproj.CoreCompileInputs.cache
+H:\Programming 1\Quizzes\MichaelC_301106259_Q5\MichaelC_301106259_Q5\obj\Debug\MichaelC_301106259_Q5.exe
+H:\Programming 1\Quizzes\MichaelC_301106259_Q5\MichaelC_301106259_Q5\obj\Debug\MichaelC_301106259_Q5.pdb

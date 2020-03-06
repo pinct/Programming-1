@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\Q9\bin\Debug\Q9.exe.config
+H:\Programming 1\Labs\Lab_07\Q9\bin\Debug\Q9.exe
+H:\Programming 1\Labs\Lab_07\Q9\bin\Debug\Q9.pdb
+H:\Programming 1\Labs\Lab_07\Q9\obj\Debug\Q9.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\Q9\obj\Debug\Q9.exe
+H:\Programming 1\Labs\Lab_07\Q9\obj\Debug\Q9.pdb

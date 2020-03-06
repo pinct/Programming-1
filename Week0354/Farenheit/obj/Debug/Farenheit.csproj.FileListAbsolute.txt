@@ -1,0 +1,7 @@
+H:\Programming 1\Week0354\Farenheit\bin\Debug\Farenheit.exe.config
+H:\Programming 1\Week0354\Farenheit\bin\Debug\Farenheit.exe
+H:\Programming 1\Week0354\Farenheit\bin\Debug\Farenheit.pdb
+H:\Programming 1\Week0354\Farenheit\obj\Debug\Farenheit.csprojAssemblyReference.cache
+H:\Programming 1\Week0354\Farenheit\obj\Debug\Farenheit.csproj.CoreCompileInputs.cache
+H:\Programming 1\Week0354\Farenheit\obj\Debug\Farenheit.exe
+H:\Programming 1\Week0354\Farenheit\obj\Debug\Farenheit.pdb

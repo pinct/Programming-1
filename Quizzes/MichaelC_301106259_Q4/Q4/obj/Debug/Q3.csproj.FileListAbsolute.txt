@@ -1,0 +1,7 @@
+H:\Programming 1\Quizzes\MichaelC_301106259_Q3\Q3\obj\Debug\Q3.csprojAssemblyReference.cache
+H:\Programming 1\Quizzes\MichaelC_301106259_Q3\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+H:\Programming 1\Quizzes\MichaelC_301106259_Q3\Q3\bin\Debug\Q3.exe.config
+H:\Programming 1\Quizzes\MichaelC_301106259_Q3\Q3\bin\Debug\Q3.exe
+H:\Programming 1\Quizzes\MichaelC_301106259_Q3\Q3\bin\Debug\Q3.pdb
+H:\Programming 1\Quizzes\MichaelC_301106259_Q3\Q3\obj\Debug\Q3.exe
+H:\Programming 1\Quizzes\MichaelC_301106259_Q3\Q3\obj\Debug\Q3.pdb

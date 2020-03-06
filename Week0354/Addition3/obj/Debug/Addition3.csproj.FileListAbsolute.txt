@@ -1,0 +1,7 @@
+C:\Users\301106259\source\repos\Addition3\Addition3\obj\Debug\Addition3.csprojAssemblyReference.cache
+C:\Users\301106259\source\repos\Addition3\Addition3\obj\Debug\Addition3.csproj.CoreCompileInputs.cache
+C:\Users\301106259\source\repos\Addition3\Addition3\bin\Debug\Addition3.exe.config
+C:\Users\301106259\source\repos\Addition3\Addition3\bin\Debug\Addition3.exe
+C:\Users\301106259\source\repos\Addition3\Addition3\bin\Debug\Addition3.pdb
+C:\Users\301106259\source\repos\Addition3\Addition3\obj\Debug\Addition3.exe
+C:\Users\301106259\source\repos\Addition3\Addition3\obj\Debug\Addition3.pdb

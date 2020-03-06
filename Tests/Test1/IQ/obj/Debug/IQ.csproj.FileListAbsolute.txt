@@ -1,0 +1,6 @@
+H:\Programming 1\Tests\Test1\IQ\bin\Debug\IQ.exe.config
+H:\Programming 1\Tests\Test1\IQ\bin\Debug\IQ.exe
+H:\Programming 1\Tests\Test1\IQ\bin\Debug\IQ.pdb
+H:\Programming 1\Tests\Test1\IQ\obj\Debug\IQ.csproj.CoreCompileInputs.cache
+H:\Programming 1\Tests\Test1\IQ\obj\Debug\IQ.exe
+H:\Programming 1\Tests\Test1\IQ\obj\Debug\IQ.pdb

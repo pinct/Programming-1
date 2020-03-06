@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\DiagLeft\bin\Debug\DiagLeft.exe.config
+H:\Programming 1\Labs\Lab_07\DiagLeft\bin\Debug\DiagLeft.exe
+H:\Programming 1\Labs\Lab_07\DiagLeft\bin\Debug\DiagLeft.pdb
+H:\Programming 1\Labs\Lab_07\DiagLeft\obj\Debug\DiagLeft.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\DiagLeft\obj\Debug\DiagLeft.exe
+H:\Programming 1\Labs\Lab_07\DiagLeft\obj\Debug\DiagLeft.pdb

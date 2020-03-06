@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\Rhombus\bin\Debug\Rhombus.exe.config
+H:\Programming 1\Labs\Lab_07\Rhombus\bin\Debug\Rhombus.exe
+H:\Programming 1\Labs\Lab_07\Rhombus\bin\Debug\Rhombus.pdb
+H:\Programming 1\Labs\Lab_07\Rhombus\obj\Debug\Rhombus.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\Rhombus\obj\Debug\Rhombus.exe
+H:\Programming 1\Labs\Lab_07\Rhombus\obj\Debug\Rhombus.pdb

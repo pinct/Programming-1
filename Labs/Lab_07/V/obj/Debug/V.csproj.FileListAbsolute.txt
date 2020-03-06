@@ -1,0 +1,6 @@
+H:\Programming 1\Labs\Lab_07\V\bin\Debug\V.exe.config
+H:\Programming 1\Labs\Lab_07\V\bin\Debug\V.exe
+H:\Programming 1\Labs\Lab_07\V\bin\Debug\V.pdb
+H:\Programming 1\Labs\Lab_07\V\obj\Debug\V.csproj.CoreCompileInputs.cache
+H:\Programming 1\Labs\Lab_07\V\obj\Debug\V.exe
+H:\Programming 1\Labs\Lab_07\V\obj\Debug\V.pdb

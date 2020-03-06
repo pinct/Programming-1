@@ -1,0 +1,6 @@
+H:\Programming 1\Tests\Test1\CheckLowAndHighRate\bin\Debug\CheckLowAndHighRate.exe.config
+H:\Programming 1\Tests\Test1\CheckLowAndHighRate\bin\Debug\CheckLowAndHighRate.exe
+H:\Programming 1\Tests\Test1\CheckLowAndHighRate\bin\Debug\CheckLowAndHighRate.pdb
+H:\Programming 1\Tests\Test1\CheckLowAndHighRate\obj\Debug\CheckLowAndHighRate.csproj.CoreCompileInputs.cache
+H:\Programming 1\Tests\Test1\CheckLowAndHighRate\obj\Debug\CheckLowAndHighRate.exe
+H:\Programming 1\Tests\Test1\CheckLowAndHighRate\obj\Debug\CheckLowAndHighRate.pdb

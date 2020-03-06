@@ -1,0 +1,13 @@
+H:\Programming 1\Assignment2\Wallpaper\bin\Debug\Wallpaper.exe.config
+H:\Programming 1\Assignment2\Wallpaper\bin\Debug\Wallpaper.exe
+H:\Programming 1\Assignment2\Wallpaper\bin\Debug\Wallpaper.pdb
+H:\Programming 1\Assignment2\Wallpaper\obj\Debug\Wallpaper.csprojAssemblyReference.cache
+H:\Programming 1\Assignment2\Wallpaper\obj\Debug\Wallpaper.csproj.CoreCompileInputs.cache
+H:\Programming 1\Assignment2\Wallpaper\obj\Debug\Wallpaper.exe
+H:\Programming 1\Assignment2\Wallpaper\obj\Debug\Wallpaper.pdb
+C:\Users\Computer\Downloads\Assignment2(2)\Wallpaper\bin\Debug\Wallpaper.exe.config
+C:\Users\Computer\Downloads\Assignment2(2)\Wallpaper\bin\Debug\Wallpaper.exe
+C:\Users\Computer\Downloads\Assignment2(2)\Wallpaper\bin\Debug\Wallpaper.pdb
+C:\Users\Computer\Downloads\Assignment2(2)\Wallpaper\obj\Debug\Wallpaper.csprojAssemblyReference.cache
+C:\Users\Computer\Downloads\Assignment2(2)\Wallpaper\obj\Debug\Wallpaper.exe
+C:\Users\Computer\Downloads\Assignment2(2)\Wallpaper\obj\Debug\Wallpaper.pdb

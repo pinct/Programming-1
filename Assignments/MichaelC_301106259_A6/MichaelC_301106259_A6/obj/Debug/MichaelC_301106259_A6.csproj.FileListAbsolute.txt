@@ -1,0 +1,7 @@
+H:\Programming 1\Assignments\MichaelC_301106259_A6\MichaelC_301106259_A6\bin\Debug\MichaelC_301106259_A6.exe.config
+H:\Programming 1\Assignments\MichaelC_301106259_A6\MichaelC_301106259_A6\bin\Debug\MichaelC_301106259_A6.exe
+H:\Programming 1\Assignments\MichaelC_301106259_A6\MichaelC_301106259_A6\bin\Debug\MichaelC_301106259_A6.pdb
+H:\Programming 1\Assignments\MichaelC_301106259_A6\MichaelC_301106259_A6\obj\Debug\MichaelC_301106259_A6.csprojAssemblyReference.cache
+H:\Programming 1\Assignments\MichaelC_301106259_A6\MichaelC_301106259_A6\obj\Debug\MichaelC_301106259_A6.csproj.CoreCompileInputs.cache
+H:\Programming 1\Assignments\MichaelC_301106259_A6\MichaelC_301106259_A6\obj\Debug\MichaelC_301106259_A6.exe
+H:\Programming 1\Assignments\MichaelC_301106259_A6\MichaelC_301106259_A6\obj\Debug\MichaelC_301106259_A6.pdb

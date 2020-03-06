@@ -1,0 +1,7 @@
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_FinalQ3\obj\Debug\MichaelC_301106259_FinalQ3.csproj.CoreCompileInputs.cache
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_FinalQ3\bin\Debug\MichaelC_301106259_FinalQ3.exe.config
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_FinalQ3\bin\Debug\MichaelC_301106259_FinalQ3.exe
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_FinalQ3\bin\Debug\MichaelC_301106259_FinalQ3.pdb
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_FinalQ3\obj\Debug\MichaelC_301106259_FinalQ3.exe
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_FinalQ3\obj\Debug\MichaelC_301106259_FinalQ3.pdb
+H:\Programming 1\Tests\MichaelC_301106259_Final\MichaelC_301106259_FinalQ3\obj\Debug\MichaelC_301106259_FinalQ3.csprojResolveAssemblyReference.cache
